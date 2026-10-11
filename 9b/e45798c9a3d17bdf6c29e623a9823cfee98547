@@ -1,0 +1,27 @@
+onnxruntime/test/framework/tensorutils_test.cc
+  s_cda539916c0d9f::t_20a8f8b85b9b01 36,72-73
+  s_cda539916c0d9f::t_d29977084b22ca 74-76
+  s_cda539916c0d9f::t_01c74945c2a0a8 77
+onnxruntime/core/framework/tensorprotoutils.h
+  s_cda539916c0d9f::t_20a8f8b85b9b01 32-33,78
+onnxruntime/core/framework/onnxruntime_map_type_info.h
+  s_cda539916c0d9f::t_0399ad515466ad 36-38,60
+onnxruntime/test/framework/type_info_test.cc
+  s_cda539916c0d9f::t_0399ad515466ad 23,63-70,117,125-127
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9be45798c9a3d17bdf6c29e623a9823cfee98547",
+  "prompts": {},
+  "sessions": {
+    "s_cda539916c0d9f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12375-1fdc-7011-a957-eb9ec749a317",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rui Chen <rui@chenrui.dev>"
+    }
+  }
+}
